@@ -3,7 +3,7 @@ class Song
   attr_accessor :title, :artist 
   
   def initialize(title, artist)
-    @title = name
+    @title = "7/11"
     @artist = artist 
   end 
   
